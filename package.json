@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "dependencies": {
+    "style-to-object": "^1.0.5",
+    "value-equal": "^1.0.1"
+  }
+}
